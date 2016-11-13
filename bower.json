@@ -1,0 +1,24 @@
+{
+  "name": "movieWebsite",
+  "description": "电影网站",
+  "main": "app.js",
+  "keywords": [
+    "movie"
+  ],
+  "authors": [
+    "migratorybird"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
