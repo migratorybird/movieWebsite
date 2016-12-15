@@ -1,7 +1,5 @@
 # movieWebsite
 
-本项目是根据慕课网中Scott老师的《node+mongodb建站攻略（一期）》课程完成的，非常感谢慕课网的老师们。
-
 ## 使用框架和类库
 
 本项目使用node作为后台开发语言，并以express4.X为类库，mongodb为数据库开发的。
