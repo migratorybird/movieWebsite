@@ -3,6 +3,7 @@
 ## 使用框架和类库
 
 本项目使用Node.js作为后台开发语言，mongodb为数据库开发的。
+
 后端使用的相关类库
 
 - express4.x
@@ -12,7 +13,7 @@
 - path
 - body-parser
 
-前端使用相关类库
+前端使用的相关类库
 
 - bootstrap
 - jquery
