@@ -2,8 +2,8 @@
 
 ## 使用框架和类库
 
-本项目使用node作为后台开发语言，并以express4.X为类库，mongodb为数据库开发的。
-node库使用相关类库
+本项目使用Node.js作为后台开发语言，mongodb为数据库开发的。
+后端使用的相关类库
 
 - express4.x
 - jade
