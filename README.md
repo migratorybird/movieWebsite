@@ -2,7 +2,7 @@
 
 ## 使用框架和类库
 
-本项目使用Node.js作为后台开发语言，mongodb为数据库开发的。
+本项目使用Node.js作为后台开发语言，MongoDB作为数据库。
 
 后端使用的相关类库
 
@@ -24,4 +24,4 @@
 
 ## tips
 
-clone或者直接下载本代码库后，需要安装node，mongodb环境，之后再项目根目录下运行npm install && bower install 安装应用到的类库。
+clone或者直接下载本代码库后，需要安装Node.js和MongoDB，之后在项目根目录下运行 `npm install` && `bower install` 安装需要的类库。
