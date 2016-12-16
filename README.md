@@ -1,6 +1,6 @@
 # movieWebsite
 
-## 使用框架和类库
+## 使用的框架和类库
 
 本项目使用Node.js作为后台开发语言，MongoDB作为数据库。
 
